@@ -26,10 +26,10 @@ The model is trained on a heart disease dataset containing medical attributes su
 ---
 
 ## 🛠️ Technology Stack
-# Programming Language :
+### Programming Language :
 - Python
 
-# Libraries Used :
+### Libraries Used :
 - Pandas
 - NumPy
 - Scikit-Learn
@@ -38,14 +38,14 @@ The model is trained on a heart disease dataset containing medical attributes su
 - Matplotlib
 - Seaborn
 
-# Machine Learning :
+### Machine Learning :
 - K-Nearest Neighbors (KNN)
 - Logistic Regression
 - Naive Bayes
 - Support Vector Machine
 - Decision Tree
 
-# Deployment :
+### Deployment :
 - Streamlit
 
 ---
@@ -90,21 +90,21 @@ The model is trained on a heart disease dataset containing medical attributes su
 ---
 
 ## ▶️ How to Run the Project :
-- 1.Clone Repository :
+### 1.Clone Repository :
 - git clone https://github.com/your-username/Heart-Disease-Prediction.git ,
 - cd Heart-Disease-Prediction
-- 2.Install Dependencies :
-- 3.pip install -r requirements.txt
-- 4.Run Streamlit App :
+### 2.Install Dependencies :
+### 3.pip install -r requirements.txt
+### 4.Run Streamlit App :
 - streamlit run app.py
-- 5.Open Browser :
+### 5.Open Browser :
 - http://localhost:8501
 
 ## 📸 Live Preview 
 Home Page - 
 <img width="1878" height="837" alt="Screenshot 2026-06-21 220615" src="https://github.com/user-attachments/assets/17aa5f6b-39f9-4696-bfcf-a0994578ca88" />
 
-Prediction Result - 
+## Prediction Result - 
 <img width="1875" height="803" alt="Screenshot 2026-06-21 220744" src="https://github.com/user-attachments/assets/e9a0964d-145c-41f3-b343-010380f317aa" />
 
 
