@@ -101,7 +101,7 @@ The model is trained on a heart disease dataset containing medical attributes su
 - http://localhost:8501
 
 ## 📸 Live Preview 
-Home Page - 
+## Home Page - 
 <img width="1878" height="837" alt="Screenshot 2026-06-21 220615" src="https://github.com/user-attachments/assets/17aa5f6b-39f9-4696-bfcf-a0994578ca88" />
 
 ## Prediction Result - 
