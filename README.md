@@ -8,7 +8,7 @@ The goal of this project is to assist in early detection of heart-related risks 
 ---
 
 ## 🚀 Features :
--  User-friendly Streamlit Web Interface,
+- User-friendly Streamlit Web Interface,
 - Real-time Heart Disease Prediction,
 - Data Preprocessing and Feature Engineering,
 - Machine Learning Model Training using KNN,
